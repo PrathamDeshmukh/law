@@ -31,4 +31,28 @@ class Welcome extends CI_Controller {
 		$this->load->view('front/template', $page_data);
 
 	}
+	public function consultant()
+	{
+		$page_data['page_name'] = 'consultant';
+		$this->load->view('front/template', $page_data);
+
+	}
+	public function family()
+	{
+		$page_data['page_name'] = 'family';
+		$this->load->view('front/template', $page_data);
+
+	}
+	public function contract()
+	{
+		$page_data['page_name'] = 'contract';
+		$this->load->view('front/template', $page_data);
+
+	}
+	public function about()
+	{
+		$page_data['page_name'] = 'about';
+		$this->load->view('front/template', $page_data);
+
+	}
 }

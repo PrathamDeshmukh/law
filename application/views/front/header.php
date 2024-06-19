@@ -29,46 +29,21 @@
                                             <li><a href="index-onepage.html">Onepage</a></li>
                                         </ul> -->
                                     </li>
-                                    <li><a href="<?php echo base_url();?>About">About Us</a>
-                                        <ul>
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="team.html">The Team</a></li>
-                                            <li><a href="faq.html">FAQ</a></li>
-                                        </ul>
+                                    <li><a href="<?php echo base_url();?>about">About Us</a>
+                                        
                                     </li>
                                     <li><a href="<?php echo base_url(); ?>">Practice Areas</a>
                                         <ul>
-                                            <li><a href="<?php echo base_url(); ?>">Basic Documentation</a>
-                                            <ul>
-                                            <li><a href="about.html">Documenation Writing</a></li>
-                                            <li><a href="team.html">Sale deed / Lease Deed</a></li>
-                                            <li><a href="faq.html">All Types Agreements</a></li>
-                                            <li><a href="faq.html">Will</a></li>
-                                            <li><a href="faq.html">Mortgage</a></li>
-                                            <li><a href="faq.html">Property Serch Report / Land Search</a></li>
-                                         </ul>
-                                            </li>
-                                            <li><a href="practice-areas.html">Court Work</a>
-                                            <ul>
-                                            <li><a href="about.html">Civil Matters</a></li>
-                                            <li><a href="team.html">Revenue Search Recall</a></li>
-        
-                                         </ul>
-                                        </li>
-                                            <li><a href="practice-areas-2.html">Family Matters <b> New</b></a>
-                                            <ul>
-                                            <li><a href="about.html">Divorce Calling Lawyer</a></li>
-                                            <li><a href="team.html">Online Consultation</a></li>
+                                            <li><a href="<?php echo base_url(); ?>consultant">Consultant Services</a>
                                             
-                                         </ul>
-                                        </li>
-                                            <li><a href="practice-areas-3.html">Contract / Agreement Drafting</a>
-                                            <ul>
-                                            <li><a href="about.html">Property Drafting</a></li>
-                                            <li><a href="team.html">Trademark related Services</a></li>
-                                        
-                                         </ul>
-                                        </li>
+                                            </li>
+                                            <li><a href="<?php echo base_url(); ?>family">Family Matter/ Court Work</a>
+                                            
+                                            </li>
+                                            <li><a href="<?php echo base_url(); ?>contract">Contract/ Agreement Drafting</a>
+                                           
+                                            </li>
+                                            
                                         </ul>
                                     </li>
                                     <li><a href="news.html">News</a>
