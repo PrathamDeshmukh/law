@@ -1,7 +1,7 @@
 <div class="no-bottom no-top" id="content">
             <div id="top"></div>
             <section aria-label="section" class="jarallax vh-100 no-padding text-light">
-                <img src="assets/images/background/5.jpg" class="jarallax-img" alt="">
+                <img src="assets/images/background/17.jpg" class="jarallax-img" alt="">
 
                 <div class="v-center">
                     <div class="container">
@@ -24,10 +24,10 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-worker"></i>
+                                <i class="id-color icofont-user"></i>
                                 <div class="text">
                                     <h4>Divorce Counselling Lawyer</h4>
-                                    Explore innovative strategies, expert guidance, and tailored solutions to propel your success forward. 
+                                    "Support and Solutions: Expert Legal Counseling for Divorce Matters" 
                                 </div>
                                 <i class="wm icofont-worker"></i>
                                 <div class="spacer-single"></div>
@@ -36,10 +36,10 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-medical-sign-alt"></i>
+                                <i class="id-color icofont-book"></i>
                                 <div class="text">
                                     <h4>Online Consultant</h4>
-                                    Explore innovative strategies, expert guidance, and tailored solutions to propel your success forward. 
+                                    "Expert Legal Advice at Your Fingertips: Trusted Online Consultation Services"
                                 </div>
                                 <i class="wm icofont-medical-sign-alt"></i>
                                 <div class="spacer-single"></div>
@@ -60,7 +60,7 @@
                             <div class="small-border sm-left"></div>
                         </div>
                         <div class="col-md-8">
-                            <p>We understand that legal issues can be some of the most challenging and stressful experiences in life. Whether you are dealing with a complex family matter, facing criminal charges, or navigating the intricacies of business law, our mission is to provide you with comprehensive, compassionate, and expert legal guidance. Our seasoned attorneys are committed to the highest standard of legal representation tailored to meet your unique needs.
+                            <p>Court work involves an intricate blend of legal knowledge, strategic thinking, and persuasive advocacy. It starts with comprehensive case preparation, including the collection and analysis of evidence, witness interviews, and legal research. Our commitment extends to appeals and enforcement of judgments. We understand that court proceedings can be daunting, and we are dedicated to providing unwavering support, clear communication, and tireless representation to ensure our clients receive the best possible outcome.
                             </p>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                                 <div class="cover">
                                     <div class="c-inner">
                                         <h3><i class="icofont-people"></i><span>Civil Matter</span></h3>
-                                        <p>Explore innovative strategies, expert guidance, and tailored solutions to propel your success forward. </p>
+                                        <p>Resolving Civil Matters with Expertise: Your Trusted Legal Partner</p>
                                         <div class="spacer20"></div>
                                         <a href="#" class="btn-custom capsule">Read more</a>
                                     </div>
@@ -87,8 +87,8 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-home"></i><span>138 Cheque Bounce Case</span></h3>
-                                        <p>Explore innovative strategies, expert guidance, and tailored solutions to propel your success forward. </p>
+                                        <h3><i class="icofont-law-document"></i><span>138 Cheque Bounce Case</span></h3>
+                                        <p>Defending Your Financial Integrity: Expert Legal Counsel for 138 Cheque Bounce Cases</p>
                                         <div class="spacer20"></div>
                                         <a href="#" class="btn-custom capsule">Read more</a>
                                     </div>
@@ -100,8 +100,8 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-law-order"></i><span>Succession Certificate</span></h3>
-                                        <p>Explore innovative strategies, expert guidance, and tailored solutions to propel your success forward. </p>
+                                        <h3><i class="icofont-certificate-alt-2"></i><span>Succession Certificate</span></h3>
+                                        <p>Securing Your Legacy: Expert Legal Guidance for Succession Certificates</p>
                                         <div class="spacer20"></div>
                                         <a href="#" class="btn-custom capsule">Read more</a>
                                     </div>

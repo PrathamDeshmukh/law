@@ -2,7 +2,7 @@
  <div class="no-bottom no-top" id="content">
             <div id="top"></div>
             <section aria-label="section" class="jarallax text-light">
-                <img src="<?= base_url() ?>assets/images/background/16.png" class="jarallax-img" alt="">
+                <img src="<?= base_url() ?>assets/images/background/bg.jpg" class="jarallax-img" alt="">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 offset-lg-6 wow fadeInRight" data-wow-delay=".5s">
@@ -84,7 +84,7 @@
 
                         <div class="col-lg-4 col-md-6 mb30 wow zoomIn" data-wow-delay=".0s">
                             <div class="de-card-poster">
-                                <a class="d-overlay" href="#">
+                                <a class="d-overlay" href="<?php echo base_url(); ?>consultant">
                                     <div class="d-content">
                                         <h3><i class="id-color icofont-group"></i>Civil Works</h3>
                                         <div class="d-text">
@@ -99,7 +99,7 @@
 
                         <div class="col-lg-4 col-md-6 mb30 wow zoomIn" data-wow-delay=".2s">
                             <div class="de-card-poster">
-                                <a class="d-overlay" href="#">
+                                <a class="d-overlay" href="<?php echo base_url(); ?>family">
                                     <div class="d-content">
                                         <h3><i class="id-color icofont-medical-sign-alt"></i>Family Matters</h3>
                                         <div class="d-text">
@@ -114,7 +114,7 @@
                         
                         <div class="col-lg-4 col-md-6 mb30 wow zoomIn" data-wow-delay=".3s">
                             <div class="de-card-poster">
-                                <a class="d-overlay" href="#">
+                                <a class="d-overlay" href="<?php echo base_url(); ?>contract">
                                     <div class="d-content">
                                         <h3><i class="id-color icofont-mining"></i>Contract / Agreement Drafting</h3>
                                         <div class="d-text">

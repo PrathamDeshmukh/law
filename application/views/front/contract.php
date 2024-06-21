@@ -24,14 +24,14 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="#">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-group"></i>Intellectual Property Drafting &amp; Filling</h3>
+                                        <h3><i class="id-color icofont-law-document"></i>Intellectual Property Drafting &amp; Filling</h3>
                                         <div class="d-text">
-                                            Lorem ipsum elit officia sint reprehenderit ullamco voluptate enim ut voluptate cupidatat ut dolor aute ex cupidatat ea ut ex elit fugiat laborum laboris elit.
+                                        Crafting Your Intellectual Property Strategy: Expert Drafting and Filing Services
                                         </div>
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/1.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/file.jpg) center"></div>
                             </div>
                         </div>
 
@@ -39,14 +39,14 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="#">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-medical-sign-alt"></i>Trade Mark Opinion</h3>
+                                        <h3><i class="id-color icofont-tick-mark"></i>Trade Mark Opinion</h3>
                                         <div class="d-text">
-                                            Lorem ipsum elit officia sint reprehenderit ullamco voluptate enim ut voluptate cupidatat ut dolor aute ex cupidatat ea ut ex elit fugiat laborum laboris elit.
+                                        Expert Insight for Trademark Protection: Trustworthy Trademark Opinion Services
                                         </div>
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/2.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/trade.jpg) center"></div>
                             </div>
                         </div>
                         
@@ -54,14 +54,14 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="#">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-mining"></i>Trade Mark Application Filling</h3>
+                                        <h3><i class="id-color icofont-book-mark"></i>Trade Mark Application Filling</h3>
                                         <div class="d-text">
-                                            Lorem ipsum elit officia sint reprehenderit ullamco voluptate enim ut voluptate cupidatat ut dolor aute ex cupidatat ea ut ex elit fugiat laborum laboris elit.
+                                        Securing Your Brand Identity: Professional Trademark Application Filing Services
                                         </div>
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/3.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/trapp.jpg) center"></div>
                             </div>
                         </div>
 
@@ -69,14 +69,14 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="#">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-law-order"></i>Search Report</h3>
+                                        <h3><i class="id-color icofont-search-property"></i>Search Report</h3>
                                         <div class="d-text">
-                                            Lorem ipsum elit officia sint reprehenderit ullamco voluptate enim ut voluptate cupidatat ut dolor aute ex cupidatat ea ut ex elit fugiat laborum laboris elit.
+                                        Insightful Analysis for Strategic Decision-Making: Comprehensive Search Report Services
                                         </div>
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/4.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/searchr.jpg) center"></div>
                             </div>
                         </div>
 
@@ -84,14 +84,14 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="#">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-group-students"></i>Opposition Against Other Trade Mark</h3>
+                                        <h3><i class="id-color icofont-lawyer-alt-1"></i>Opposition Against Other Trade Mark</h3>
                                         <div class="d-text">
-                                            Lorem ipsum elit officia sint reprehenderit ullamco voluptate enim ut voluptate cupidatat ut dolor aute ex cupidatat ea ut ex elit fugiat laborum laboris elit.
+                                        Defending Your Brand: Expert Legal Support for Trademark Opposition
                                         </div>
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/5.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/mark.jpg) center"></div>
                             </div>
                         </div>
 
@@ -99,14 +99,14 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="#">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-money"></i>Appearance Before TradeMark Registries</h3>
+                                        <h3><i class="id-color icofont-ui-note"></i>Appearance Before TradeMark Registries</h3>
                                         <div class="d-text">
-                                            Lorem ipsum elit officia sint reprehenderit ullamco voluptate enim ut voluptate cupidatat ut dolor aute ex cupidatat ea ut ex elit fugiat laborum laboris elit.
+                                        Expert Representation at Trademark Registries: Your Trusted Legal Partner
                                         </div>
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/6.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/agr.jpg) center"></div>
                             </div>
                         </div>
 
@@ -114,14 +114,14 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="#">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-building"></i>CopyRight &amp; Design Drafting &amp; Filling Applications</h3>
+                                        <h3><i class="id-color icofont-copyright"></i>CopyRight &amp; Design Drafting &amp; Filling Applications</h3>
                                         <div class="d-text">
-                                            Lorem ipsum elit officia sint reprehenderit ullamco voluptate enim ut voluptate cupidatat ut dolor aute ex cupidatat ea ut ex elit fugiat laborum laboris elit.
+                                        Crafting Protection for Creativity: Expert Copyright and Design Drafting and Filing
                                         </div>
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/7.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/copy.jpg) center"></div>
                             </div>
                         </div>
 
