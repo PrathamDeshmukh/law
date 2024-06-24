@@ -87,10 +87,10 @@
                                     <div class="fpw-overlay">
                                         <div class="fpwo-wrap">
                                             <div class="fpwow-icons">
-                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-facebook fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-twitter fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-linkedin fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-pinterest fa-lg"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -107,10 +107,10 @@
                                     <div class="fpw-overlay">
                                         <div class="fpwo-wrap">
                                             <div class="fpwow-icons">
-                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-facebook fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-twitter fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-linkedin fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-pinterest fa-lg"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -127,10 +127,10 @@
                                     <div class="fpw-overlay">
                                         <div class="fpwo-wrap">
                                             <div class="fpwow-icons">
-                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-facebook fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-twitter fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-linkedin fa-lg"></i></a>
+                                                <a href="<?php echo base_url(); ?>#"><i class="fa fa-pinterest fa-lg"></i></a>
                                             </div>
                                         </div>
                                     </div>

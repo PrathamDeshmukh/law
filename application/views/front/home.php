@@ -9,7 +9,6 @@
                             <div class="pl-lg-5">
                                 <div class="spacer-double"></div>
                                 <div class="spacer-double"></div>
-                                <h3 class="id-color wow fadeInUp" data-wow-delay=".4s">Need Any Help?</h3>
                                 <h1 class="wow fadeInUp" data-wow-delay=".6s">Defending Your Rights, Pursuing Justice</h1>
                                 <div class="spacer-20"></div>
                                 <a class="btn-custom wow fadeInUp" data-wow-delay="1s" href="contact.html">Contact Us</a>
@@ -66,9 +65,7 @@
             <section id="section-highlight" class="relative">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-12">
-                            <span class="p-title wow fadeInUp">Practice Areas</span>
-                        </div>
+                       
                         <div class="col-lg-6">
                             <h2 class="wow fadeInUp">
                                 With a legacy of success and a commitment to excellence, our firm stands ready to protect your rights
@@ -93,7 +90,7 @@
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/1.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/h1.jpg) center"></div>
                             </div>
                         </div>
 
@@ -108,7 +105,7 @@
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/2.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/h2.jpg) center"></div>
                             </div>
                         </div>
                         
@@ -123,7 +120,7 @@
                                         <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/3.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/h3.jpg) center"></div>
                             </div>
                         </div>
 
@@ -227,87 +224,16 @@
                         <div class="col-lg-6 wow fadeInRight">
                             <div class="pr-lg-5">
                                 <div class="spacer-double"></div>
-                                <h1>"True peace is not merely the absence of tension; it is the presence of justice"</h1>
+                                <h1>" Never give up! Our law firm is here to protect and conserve justice."</h1>
                                 <div class="spacer-20"></div>
-                                Martin Luther King Jr.
+                                
                                 <div class="spacer-double"></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section aria-label="section">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <span class="p-title wow fadeInUp">Our Team</span>
-                            <h2 class="wow fadeInUp">Our team of dedicated attorneys is committed to providing comprehensive legal solutions</h2>
-                            <div class="small-border sm-left"></div>
-                        </div>
-                        <div class="clearfix"></div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
-                            <div class="f-profile text-center">
-                                <div class="fp-wrap f-invert">
-                                    <div class="fpw-overlay">
-                                        <div class="fpwo-wrap">
-                                            <div class="fpwow-icons">
-                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="fpw-overlay-btm"></div>
-                                    <img src="<?= base_url() ?>assets/images/team/test.png" class="fp-image img-fluid" alt="">
-                                </div>
-                                <h4>Sanjay Saxena</h4>
-                                Founder || Civil Consultant
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
-                            <div class="f-profile text-center">
-                                <div class="fp-wrap f-invert">
-                                    <div class="fpw-overlay">
-                                        <div class="fpwo-wrap">
-                                            <div class="fpwow-icons">
-                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="fpw-overlay-btm"></div>
-                                    <img src="<?= base_url() ?>assets/images/team/test.png" class="fp-image img-fluid" alt="">
-                                </div>
-                                <h4>Abha Saxena</h4>
-                                Divorce Consultant
-                            </div>
-                        </div>
-                        <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
-                            <div class="f-profile text-center">
-                                <div class="fp-wrap f-invert">
-                                    <div class="fpw-overlay">
-                                        <div class="fpwo-wrap">
-                                            <div class="fpwow-icons">
-                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="fpw-overlay-btm"></div>
-                                    <img src="<?= base_url() ?>assets/images/team/3.jpg" class="fp-image img-fluid" alt="">
-                                </div>
-                                <h4>John Shepard</h4>
-                                Associate
-                            </div>
-                        </div> -->
-                    </div>
-                </div>
-            </section>
+            
             <section class="no-bottom relative text-white">
                 <div class="container-fluid">
                     <div class="row no-gutters mt-100" data-bgcolor="#203445">

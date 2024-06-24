@@ -50,9 +50,6 @@
                         <div class="col-lg-6 text-lg-end">
                             <div class="social-icons">
                                 <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
                                 <a href="#"><i class="fa fa-rss fa-lg"></i></a>
                             </div>
                         </div>

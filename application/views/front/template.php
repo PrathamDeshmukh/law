@@ -8,7 +8,7 @@
 
 <body>
 
-<div id="wrapper">
+<!-- <div id="wrapper">
        <div id="topbar" class="topbar-noborder topbar-light">
             <div class="container">                
                 <div class="topbar-left">
@@ -19,14 +19,12 @@
                 <div class="topbar-right sm-hide">
                     <span class="topbar-widget tb-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
                         <a href="#"><i class="fa fa-envelope-o"></i></a>
                     </span>
                 </div>
                 <div class="clearfix"></div>
             </div>
-        </div>
+        </div> -->
  <?php include('header.php');?>
 
 

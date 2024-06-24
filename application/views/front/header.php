@@ -46,12 +46,12 @@
                                             
                                         </ul>
                                     </li>
-                                    <li><a href="news.html">News</a>
-                                        <!-- <ul>
+                                    <!-- <li><a href="news.html">News</a>
+                                        <ul>
                                             <li><a href="news.html">News List</a></li>
                                             <li><a href="news-single.html">News Single</a></li>
                                         </ul> -->
-                                    </li>
+                                    </li> 
                                     <li><a href="<?php echo base_url();?>contact">Contact</a></li>
                                      <!-- <li><a href="#">Elements</a>
                                         <ul>

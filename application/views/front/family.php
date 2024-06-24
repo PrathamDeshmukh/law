@@ -31,7 +31,7 @@
                                 </div>
                                 <i class="wm icofont-worker"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
+                                <a href="<?php echo base_url(); ?>#" class="btn-custom btn-black">Read More</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -43,7 +43,7 @@
                                 </div>
                                 <i class="wm icofont-medical-sign-alt"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
+                                <a href="<?php echo base_url(); ?>#" class="btn-custom btn-black">Read More</a>
                             </div>
                         </div>
                         
@@ -77,7 +77,7 @@
                                         <h3><i class="icofont-people"></i><span>Civil Matter</span></h3>
                                         <p>Resolving Civil Matters with Expertise: Your Trusted Legal Partner</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">Read more</a>
+                                        <a href="<?php echo base_url(); ?>#" class="btn-custom capsule">Read more</a>
                                     </div>
                                 </div>
                                 <img src="assets/images/services/1.jpg" alt="" class="img-responsive" />
@@ -90,7 +90,7 @@
                                         <h3><i class="icofont-law-document"></i><span>138 Cheque Bounce Case</span></h3>
                                         <p>Defending Your Financial Integrity: Expert Legal Counsel for 138 Cheque Bounce Cases</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">Read more</a>
+                                        <a href="<?php echo base_url(); ?>#" class="btn-custom capsule">Read more</a>
                                     </div>
                                 </div>
                                 <img src="assets/images/services/2.jpg" alt="" class="img-responsive" />
@@ -103,7 +103,7 @@
                                         <h3><i class="icofont-certificate-alt-2"></i><span>Succession Certificate</span></h3>
                                         <p>Securing Your Legacy: Expert Legal Guidance for Succession Certificates</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">Read more</a>
+                                        <a href="<?php echo base_url(); ?>#" class="btn-custom capsule">Read more</a>
                                     </div>
                                 </div>
                                 <img src="assets/images/services/3.jpg" alt="" class="img-responsive" />
