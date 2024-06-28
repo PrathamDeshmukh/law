@@ -3,13 +3,12 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-white">
-                <img src="<?= base_url() ?>assets/images/background/subheader2.jpg" class="jarallax-img" alt="">
+                <img src="<?= base_url() ?>assets/images/background/slii.jpg" class="jarallax-img" alt="">
                 <div class="center-y relative text-center">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-center">
                                 <h1>Contact Us</h1>
-                                <p>Reputation. Respect. Result.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -21,7 +20,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="<?= base_url() ?>assets/images/misc/p1.jpg" alt="" class="img-fluid mb30">
+                            <img src="<?= base_url() ?>assets/images/misc/img.jpeg" alt="" class="img-fluid mb30">
                             <h3>Main Office</h3>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>MB-40 Block-C, Mezzanine Floor,Mansarover Complex,Bhopal(M.P) </span>
@@ -30,26 +29,18 @@
                                 <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
                             </address>
                         </div>
-                        <div class="col-md-4">
-                            <img src="<?= base_url() ?>assets/images/misc/p2.jpg" alt="" class="img-fluid mb30">
+                        <div class="col-md-8">
+                            <!-- <img src="<?= base_url() ?>assets/images/misc/p2.jpg" alt="" class="img-fluid mb30">
                             <h3>Supreme Court Desk</h3>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>Bhopal</span>
                                 <span><i class="id-color fa fa-phone fa-lg"></i>+91 </span>
                                 <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
                                 <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
-                            </address>
+                            </address> -->
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.485624646235!2d77.43316417509824!3d23.22540907903218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c43c039d90f89%3A0x8ecb1d92abd7a9d2!2sShivom%20Law%20Chamber!5e0!3m2!1sen!2sin!4v1719561186182!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
-                        <div class="col-md-4">
-                            <img src="<?= base_url() ?>assets/images/misc/p3.jpg" alt="" class="img-fluid mb30">
-                            <h3>High Court Desk</h3>
-                            <address class="s1">
-                                <span><i class="id-color fa fa-map-marker fa-lg"></i>Bhopal</span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+91 </span>
-                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
-                                <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
-                            </address>
-                        </div>
+                    
                     </div>
                 </div>
             </section>
@@ -90,13 +81,12 @@
                     <div class="row align-items-center">
                         <div class="col-lg-4 col-md-12 wow fadeInRight" data-wow-delay=".2s">
                             <div class="de_count ultra-big s2 border-light text-center">
-                                <h3 class="timer" data-to="20" data-speed="1000">20</h3>
+                                <h3 class="timer" data-to="30" data-speed="1000">30</h3>
                                 <span class="id-color">Years of Experience</span>
                             </div>
                         </div>
                         <div class="col-lg-4 p-lg-5  mb-sm-30 wow fadeInRight" data-wow-delay=".4s">
-                            <span class="p-title">About Us</span><br>
-                            <h2>Justica is Your Best Partner for Legal Solutions</h2>
+                            <h2>Shivom Law Chamber</h2>
                         </div>
                         <div class="col-lg-4 wow fadeInRight" data-wow-delay=".6s">
                             <p>

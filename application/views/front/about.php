@@ -9,7 +9,6 @@
                             <div class="col text-center">
                                 <div class="spacer-single"></div>
                                 <h1>About Us</h1>
-                                <p>Reputation. Respect. Result.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -27,9 +26,7 @@
                         </div>
                         <div class="col-md-6 offset-md-1">
                             <div class="de-images">
-                                <div class="di-text text-white bg-color">
-                                    <h1>2500</h1><span>Solved Cases</span>
-                                </div>
+                               
                                 <img class="di-small-2" src="assets/images/misc/d2.jpg" alt="" />
                                 <img class="di-big img-fluid" src="assets/images/misc/d1.jpg" alt="" />
                             </div>
@@ -53,7 +50,7 @@
                                     <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Our Expertise</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Our Firm</a>
+                                    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Our Chamber</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
@@ -64,7 +61,7 @@
                                     <p>We brings extensive experience and specialized knowledge to a wide range of legal practice areas. We are dedicated to providing top-tier legal services, tailored to meet the unique needs of each client. Whether you're facing a personal legal challenge or require sophisticated business counsel, our attorneys are here to guide you with unparalleled expertise and unwavering commitment.</p>
                                 </div>
                                 <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                                    <p>We are dedicated to providing exceptional legal services tailored to meet the unique needs of our clients. Our firm is built on a foundation of integrity, professionalism, and a commitment to excellence. Whether you're facing a personal legal challenge or require sophisticated business counsel, our team of experienced attorneys is here to guide you through every step of the legal process.</p>
+                                    <p>We are dedicated to providing exceptional legal services tailored to meet the unique needs of our clients. Our chamber is built on a foundation of integrity, professionalism, and a commitment to excellence. Whether you're facing a personal legal challenge or require sophisticated business counsel, our team of experienced attorneys is here to guide you through every step of the legal process.</p>
                                 </div>
                             </div>
                         </div>
@@ -95,10 +92,10 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="assets/images/team/1.jpg" class="fp-image img-fluid" alt="">
+                                    <img src="assets/images/team/test.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>Fynley Wilkinson</h4>
-                                Managing Partner
+                                <h4>Sanjay Saxena</h4>
+                                Founder
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
@@ -115,10 +112,10 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="assets/images/team/2.jpg" class="fp-image img-fluid" alt="">
+                                    <img src="assets/images/team/test.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>Sasha Welsh</h4>
-                                Senior Partner
+                                <h4>Abha Saxena</h4>
+                                Managing Partner
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
@@ -135,10 +132,9 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="assets/images/team/3.jpg" class="fp-image img-fluid" alt="">
+                                    <img src="assets/images/team/test.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>John Shepard</h4>
-                                Associate
+                                <h4>Staff</h4>                             
                             </div>
                         </div>
                     </div>
@@ -149,13 +145,12 @@
                     <div class="row align-items-center">
                         <div class="col-lg-4 col-md-12 wow fadeInRight" data-wow-delay=".2s">
                             <div class="de_count ultra-big s2 text-center">
-                                <h3 class="timer" data-to="20" data-speed="1000">20</h3>
+                                <h3 class="timer" data-to="30" data-speed="1000">30</h3>
                                 <span class="id-color">Years of Experience</span>
                             </div>
                         </div>
                         <div class="col-lg-4 p-lg-5  mb-sm-30 wow fadeInRight" data-wow-delay=".4s">
-                            <span class="p-title">Welcome</span><br>
-                            <h2>Justica is Your Best Partner for Legal Solutions</h2>
+                            <h2>Shivom Law Chamber</h2>
                         </div>
                         <div class="col-lg-4 wow fadeInRight" data-wow-delay=".6s">
                             <p>
@@ -173,7 +168,7 @@
                                 <i class="id-color icofont-letter"></i>
                                 <div class="text">
                                     <h4>Request Quote</h4>
-                                    Our experienced attorneys are ready to provide personalized solutions to meet your goals.
+                                    Clear and Transparent Legal Quotes: Request Yours Now
                                 </div>
                                 <i class="wm icofont-letter"></i>
                             </div>
@@ -183,19 +178,19 @@
                                 <i class="id-color icofont-investigation"></i>
                                 <div class="text">
                                     <h4>Investigation</h4>
-                                    Our experienced attorneys are ready to provide personalized solutions to meet your goals.
+                                    From Facts to Findings: Trusted Legal Investigation Solutions
                                 </div>
                                 <i class="wm icofont-investigation"></i>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-hand-power"></i>
+                                <i class="id-color icofont-law-document"></i>
                                 <div class="text">
-                                    <h4>Case Fight</h4>
-                                    Our experienced attorneys are ready to provide personalized solutions to meet your goals.
+                                    <h4>E-stamp</h4>
+                                    Your Digital Stamp of Authenticity: Expert E-Stamp Services
                                 </div>
-                                <i class="wm icofont-hand-power"></i>
+                                <i class="wm icofont-law-document"></i>
                             </div>
                         </div>
                     </div>

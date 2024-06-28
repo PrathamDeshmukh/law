@@ -11,64 +11,21 @@
                                 <div class="spacer-double"></div>
                                 <h1 class="wow fadeInUp" data-wow-delay=".6s">Defending Your Rights, Pursuing Justice</h1>
                                 <div class="spacer-20"></div>
-                                <a class="btn-custom wow fadeInUp" data-wow-delay="1s" href="contact.html">Contact Us</a>
+                                <a class="btn-custom wow fadeInUp" data-wow-delay="1s" href="<?php echo base_url();?>contact">Contact Us</a>
                                 <div class="spacer-double"></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="bg-color pt40 pb40">
-                <div class="container">
-                    <div class="row">
-                        <div class="row">
-                            <div class="col-lg-2 col-6 text-center wow fadeInRight" data-wow-delay="0s">
-                                <div class="de_count s2">
-                                    <h3><span class="timer" data-to="4500" data-speed="3000">0</span></h3>
-                                    <h5>Home Protected</h5>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-6 text-center wow fadeInRight" data-wow-delay=".25s">
-                                <div class="de_count s2">
-                                    <h3><span class="timer" data-to="16" data-speed="3000">0</span>k</h3>
-                                    <h5>People Saved</h5>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-6 text-center wow fadeInRight" data-wow-delay=".4s">
-                                <div class="de_count s2">
-                                    <h3><span class="timer" data-to="4" data-speed="3000">0</span>m</h3>
-                                    <h5>Money Saved</h5>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-6 text-center wow fadeInRight" data-wow-delay=".6s">
-                                <div class="de_count s2">
-                                    <h3><span class="timer" data-to="52" data-speed="3000">0</span>k</h3>
-                                    <h5>Contract Signed</h5>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-6 text-center wow fadeInRight" data-wow-delay=".8s">
-                                <div class="de_count s2">
-                                    <h3><span class="timer" data-to="100" data-speed="3000">0</span>+</h3>
-                                    <h5>Countries</h5>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-6 text-center wow fadeInRight" data-wow-delay="1s">
-                                <div class="de_count s2">
-                                    <h3><span class="timer" data-to="2" data-speed="3000">2</span>k</h3>
-                                    <h5>Staff Member</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+           
             <section id="section-highlight" class="relative">
                 <div class="container">
                     <div class="row">
                        
                         <div class="col-lg-6">
                             <h2 class="wow fadeInUp">
-                                With a legacy of success and a commitment to excellence, our firm stands ready to protect your rights
+                                With a legacy of success and a commitment to excellence, our chamber stands ready to protect your rights
                             </h2>
                             <div class="small-border sm-left"></div>
                         </div>
@@ -87,7 +44,6 @@
                                         <div class="d-text">
                                            Revenue Search / Civil Matters
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/h1.jpg) center"></div>
@@ -98,11 +54,10 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="<?php echo base_url(); ?>family">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-medical-sign-alt"></i>Family Matters</h3>
+                                        <h3><i class="id-color icofont-user"></i>Family Matters</h3>
                                         <div class="d-text">
                                             Divorce Lawyer / Online Consultation
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/h2.jpg) center"></div>
@@ -113,11 +68,10 @@
                             <div class="de-card-poster">
                                 <a class="d-overlay" href="<?php echo base_url(); ?>contract">
                                     <div class="d-content">
-                                        <h3><i class="id-color icofont-mining"></i>Contract / Agreement Drafting</h3>
+                                        <h3><i class="id-color "></i>Contract / Agreement Drafting</h3>
                                         <div class="d-text">
                                             Contract Agreement Drafting / Trademark Related Services
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(<?= base_url() ?>assets/images/practice-areas/h3.jpg) center"></div>
@@ -218,13 +172,29 @@
                 </div>
             </section>
             <section aria-label="section" class="jarallax text-light">
-                <img src="<?= base_url() ?>assets/images/background/17.jpg" class="jarallax-img" alt="">
+                <!-- <img src="<?= base_url() ?>assets/images/background/17.jpg" class="jarallax-img" alt=""> -->
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 wow fadeInRight">
                             <div class="pr-lg-5">
                                 <div class="spacer-double"></div>
-                                <h1>" Never give up! Our law firm is here to protect and conserve justice."</h1>
+                                <h1>" Never give up! Our law chamber is here to protect and conserve justice."</h1>
+                                <div class="spacer-20"></div>
+                                
+                                <div class="spacer-double"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 wow fadeInRight">
+                            <div class="pr-lg-5">
+                                <div class="spacer-double"></div>
+                                
+ 
+    <video class="jarallax-img" width="500px" 
+           height="400px" loop  autoplay muted
+           >
+        <source src="<?= base_url() ?>assets/images/vedio/v1.mp4" 
+                type="video/mp4"  />
+    </video>
                                 <div class="spacer-20"></div>
                                 
                                 <div class="spacer-double"></div>
@@ -259,12 +229,12 @@
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".6s">
                             <div class="feature-box f-boxed style-3 text-center" data-bgcolor="rgba(255,255,255,.3)">
-                                <i class="icofont-hand-power"></i>
+                                <i class="icofont-law-document"></i>
                                 <div class="text">
-                                    <h4>Case Fight</h4>
+                                    <h4>E-Stamp</h4>
                                     
                                 </div>
-                                <i class="wm icofont-hand-power"></i>
+                                <i class="wm icofont-law-document"></i>
                             </div>
                         </div>
                     </div>
@@ -284,60 +254,26 @@
                         <div class="col-lg-4 col-md-6 mb30 wow zoomIn" data-wow-delay=".s">
                             <div class="bloglist item">
                                 <div class="post-content">
-                                    <div class="date-box">
-                                        <div class="m">10</div>
-                                        <div class="d">NOV</div>
-                                    </div>
+                                   
                                     <div class="post-image">
-                                        <img alt="" src="<?= base_url() ?>assets/images/news/1.jpg">
+                                        <img alt="" src="<?= base_url() ?>assets/images/news/news.jpg">
                                     </div>
-                                    <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">The Lawyer European Awards shortlist<span></span></a></h4>
-                                        <p>When facing legal issues, whether personal or business-related, many people may consider handling the matter themselves to save money.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb30 wow zoomIn" data-wow-delay=".s">
+                        <div class="col-lg-8 col-md-6 mb30 wow zoomIn" data-wow-delay=".s">
                             <div class="bloglist item">
                                 <div class="post-content">
-                                    <div class="date-box">
-                                        <div class="m">15</div>
-                                        <div class="d">NOV</div>
-                                    </div>
-                                    <div class="post-image">
-                                        <img alt="" src="<?= base_url() ?>assets/images/news/2.jpg">
-                                    </div>
                                     <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">Six firms that are setting the trend<span></span></a></h4>
+                                        <h3><a href="news-single.html">Six chambers that are setting the trend<span></span></a></h3>
                                         <p>When facing legal issues, whether personal or business-related, many people may consider handling the matter themselves to save money.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
+                                        <span class="p-author">-Sanjay Saxena</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb30 wow zoomIn" data-wow-delay=".s">
-                            <div class="bloglist item">
-                                <div class="post-content">
-                                    <div class="date-box">
-                                        <div class="m">20</div>
-                                        <div class="d">NOV</div>
-                                    </div>
-                                    <div class="post-image">
-                                        <img alt="" src="<?= base_url() ?>assets/images/news/3.jpg">
-                                    </div>
-                                    <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">When it comes to law firm mergers<span></span></a></h4>
-                                        <p>When facing legal issues, whether personal or business-related, many people may consider handling the matter themselves to save money.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </section>

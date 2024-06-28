@@ -28,10 +28,9 @@
                                         <div class="d-text">
                                         Crafting Your Intellectual Property Strategy: Expert Drafting and Filing Services
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
-                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/file.jpg) center"></div>
+                                <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/property.jpg) center"></div>
                             </div>
                         </div>
 
@@ -43,7 +42,6 @@
                                         <div class="d-text">
                                         Expert Insight for Trademark Protection: Trustworthy Trademark Opinion Services
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/trade.jpg) center"></div>
@@ -58,7 +56,6 @@
                                         <div class="d-text">
                                         Securing Your Brand Identity: Professional Trademark Application Filing Services
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/trapp.jpg) center"></div>
@@ -73,7 +70,6 @@
                                         <div class="d-text">
                                         Insightful Analysis for Strategic Decision-Making: Comprehensive Search Report Services
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/searchr.jpg) center"></div>
@@ -88,7 +84,6 @@
                                         <div class="d-text">
                                         Defending Your Brand: Expert Legal Support for Trademark Opposition
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/mark.jpg) center"></div>
@@ -103,7 +98,6 @@
                                         <div class="d-text">
                                         Expert Representation at Trademark Registries: Your Trusted Legal Partner
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/agr.jpg) center"></div>
@@ -118,7 +112,6 @@
                                         <div class="d-text">
                                         Crafting Protection for Creativity: Expert Copyright and Design Drafting and Filing
                                         </div>
-                                        <span href="#" class="btn-main">Read More</span>
                                     </div>
                                 </a>
                                 <div class="d-image filter-sephia-30" data-bgimage="url(assets/images/practice-areas/copy.jpg) center"></div>
