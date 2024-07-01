@@ -3,7 +3,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-white">
-                <img src="<?= base_url() ?>assets/images/background/slii.jpg" class="jarallax-img" alt="">
+                <img src="<?= base_url() ?>assets/images/background/slider1.png" class="jarallax-img" alt="">
                 <div class="center-y relative text-center">
                     <div class="container">
                         <div class="row">
@@ -24,21 +24,15 @@
                             <h3>Main Office</h3>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>MB-40 Block-C, Mezzanine Floor,Mansarover Complex,Bhopal(M.P) </span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+91 98263 77179</span>
+                                <span><i class="id-color fa fa-mobile fa-lg"></i>+91 98263 77179, 90391 73479</span>
+                                <span><i class="id-color fa fa-phone fa-lg"></i>0755-4222197</span>
                                 <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:shivomlawchamber179.com">shivomlawchamber179.com</a></span>
                                 <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
                             </address>
                         </div>
                         <div class="col-md-8">
-                            <!-- <img src="<?= base_url() ?>assets/images/misc/p2.jpg" alt="" class="img-fluid mb30">
-                            <h3>Supreme Court Desk</h3>
-                            <address class="s1">
-                                <span><i class="id-color fa fa-map-marker fa-lg"></i>Bhopal</span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+91 </span>
-                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
-                                <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
-                            </address> -->
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.485624646235!2d77.43316417509824!3d23.22540907903218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c43c039d90f89%3A0x8ecb1d92abd7a9d2!2sShivom%20Law%20Chamber!5e0!3m2!1sen!2sin!4v1719561186182!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.485624646235!2d77.43316417509824!3d23.22540907903218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c43c039d90f89%3A0x8ecb1d92abd7a9d2!2sShivom%20Law%20Chamber!5e0!3m2!1sen!2sin!4v1719561186182!5m2!1sen!2sin" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     
                     </div>

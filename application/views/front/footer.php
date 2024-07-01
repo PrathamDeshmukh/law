@@ -9,8 +9,8 @@
                             <a href=""><img alt="" class="img-fluid mb20" src="<?=base_url() ?>assets/images/shivom2.png"></a>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>MB-40 Block-C, Mezzanine Floor,<br>   Mansarover Complex,Bhopal(M.P) </span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+91 98263 77179</span>
-                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:shivomlawchamber179.com">shivomlawchamber179.com</a></span>
+                                <span><i class="id-color fa fa-mobile fa-lg"></i>+91 98263 77179, 90391 73479</span>
+                                <span><i class="id-color fa fa-phone fa-lg"></i>0755-4222197</span>                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:shivomlawchamber179.com">shivomlawchamber179.com</a></span>
                                 <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
                             </address>
                         </div>
@@ -27,8 +27,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="widget">
-                            <h5>Newsletter</h5>
-                            <p>Signup for our newsletter to get the latest news, updates and special offers in your inbox.</p>
+                            <h5>For Better Services</h5>
                             <form action="" class="row" id="form_subscribe" method="post" name="form_subscribe">
                                 <div class="col text-center">
                                     <input class="form-control" id="name_1" name="name_1" placeholder="enter your email" type="text" /> <a href="#" id="btn-submit"><i class="fa fa-long-arrow-right"></i></a>
@@ -47,12 +46,7 @@
                         <div class="col-lg-6">
                             &copy; Copyright 2024 - IITS Bhopal
                         </div>
-                        <div class="col-lg-6 text-lg-end">
-                            <div class="social-icons">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-rss fa-lg"></i></a>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>

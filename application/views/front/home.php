@@ -2,7 +2,7 @@
  <div class="no-bottom no-top" id="content">
             <div id="top"></div>
             <section aria-label="section" class="jarallax text-light">
-                <img src="<?= base_url() ?>assets/images/background/bg.jpg" class="jarallax-img" alt="">
+                <img src="<?= base_url() ?>assets/images/background/b1.jpg" class="jarallax-img" alt="">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 offset-lg-6 wow fadeInRight" data-wow-delay=".5s">
@@ -18,7 +18,6 @@
                     </div>
                 </div>
             </section>
-           
             <section id="section-highlight" class="relative">
                 <div class="container">
                     <div class="row">

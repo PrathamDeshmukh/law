@@ -2,7 +2,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-white">
-                <img src="assets/images/background/subheader3.jpg" class="jarallax-img" alt="">
+                <img src="assets/images/background/slider4.png" class="jarallax-img" alt="">
                 <div class="center-y relative text-center">
                     <div class="container">
                         <div class="row">

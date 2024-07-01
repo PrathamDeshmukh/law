@@ -7,9 +7,9 @@
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                <a href="<?php echo base_url(); ?>" class="navbar"><img src="assets/images/shivom3.png"
+                                <a href="<?php echo base_url(); ?>" class="navbar"><img src="assets/images/log2.png"
                         alt></a>
-                                </div>
+                                </div>SHIVOM LAW <br>CHAMBER
                                 <!-- logo close -->
                             </div>
                             <div class="de-flex-col header-col-mid">
